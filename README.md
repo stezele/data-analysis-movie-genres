@@ -14,8 +14,8 @@ The primary goal of this project is to analyze various movie genres to uncover t
 
 ### 1. Which genres are the most common (number of movies made)?
 ### 2. Which genres have high avg. budget and revenue?
-### 3. Which genres have high avg. popularity?
-### 4. Which genres have highest number of movies with an voting avg >=8 ? 
+### 3. Which genres have high avg. Profit?
+### 4. Which genres have high avg. popularity?
 
 ## Code
 
@@ -95,6 +95,32 @@ info
 
 
 ### 2. Which genres have high avg. budget and revenue?
+
+
+Group by and Format Budget 
+
+![image](https://github.com/user-attachments/assets/0919441f-470f-4cd8-a1a5-7d541f1fccb2)
+
+
+![image](https://github.com/user-attachments/assets/72dfdf04-39a2-4e91-9a5a-402713d2ac5d)
+
+![image](https://github.com/user-attachments/assets/0992991d-2057-46c0-9429-b54fe86832be)
+
+![image](https://github.com/user-attachments/assets/e0abb140-7e9c-445a-b06f-8029d2e75167)
+
+
+
+### 3. Which genres have high avg. Profit?
+
+Group by and Format Profit
+
+![image](https://github.com/user-attachments/assets/6cc56148-c18c-4a23-a108-322f9f25f0eb)
+
+![image](https://github.com/user-attachments/assets/92db4600-6648-47de-bfcb-515887ac265d)
+
+![image](https://github.com/user-attachments/assets/55f3245f-8d19-41d4-ba7b-62b31a38db53)
+
+
 
 
 
