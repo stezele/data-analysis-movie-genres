@@ -66,6 +66,14 @@ After
 
 
 
+# Split index
+
+![image](https://github.com/user-attachments/assets/5bced5ea-ce7c-48d0-9ee1-926d46ec63a6)
+
+![image](https://github.com/user-attachments/assets/2b442fe8-3865-4a84-8842-9f92b1dbee0e)
+
+
+
 
 
 
