@@ -79,5 +79,15 @@ info
 ![image](https://github.com/user-attachments/assets/25b17c28-d4d1-4c54-8cb6-a0a08803a953)
 
 
+### 1. Which genres are the most common (number of movies made)?
+
+![image](https://github.com/user-attachments/assets/9f7e1391-1158-46af-ac76-a12d97ae061c)
+
+![image](https://github.com/user-attachments/assets/d81141ae-7d1f-4504-8ca6-af1cd8740ebc)
+
+
+
+
+
 
 
