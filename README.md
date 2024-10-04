@@ -48,4 +48,11 @@ import and read csv
 
 ![image](https://github.com/user-attachments/assets/228bd78a-1e8e-4879-82d1-c82120244faf)
 
+## Filtering data
+
+![image](https://github.com/user-attachments/assets/0376c544-2aa3-47ac-8d7b-1145aa4e0a22)
+
+# 1
+## 1
+### 1
 
