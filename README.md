@@ -24,7 +24,8 @@ import and read csv
 ![image](https://github.com/user-attachments/assets/b4104c60-cb33-4ec3-890f-77272b9416ec)
 
 
-movies.info()
+![image](https://github.com/user-attachments/assets/b7277023-53d8-4eb0-b751-470fdfb8a729)
+
 
 ![image](https://github.com/user-attachments/assets/996d1b9a-4d00-4cb2-9dda-550a95661f40)
 
