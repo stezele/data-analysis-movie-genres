@@ -50,9 +50,23 @@ import and read csv
 
 ### Filtering data
 
-![image](https://github.com/user-attachments/assets/0376c544-2aa3-47ac-8d7b-1145aa4e0a22)
+![image](https://github.com/user-attachments/assets/5d74bfec-29ca-4512-ba3d-a33b98758a05)
 
-# 1
-## 1
-### 1
+### Split 'genres' columns
+
+Before
+
+![image](https://github.com/user-attachments/assets/e63b0c19-df47-4494-bc2d-eee8be636805)
+
+After
+
+![image](https://github.com/user-attachments/assets/64fa7db1-02f6-4029-b22d-2826649b27ea)
+
+![image](https://github.com/user-attachments/assets/a2009256-cad1-4992-819a-e3af91aa0e2f)
+
+
+
+
+
+
 
