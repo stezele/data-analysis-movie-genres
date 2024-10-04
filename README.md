@@ -17,7 +17,16 @@ The primary goal of this project is to analyze various movie genres to uncover t
 ## 3. Which genres have high avg. popularity?
 ## 4. Which genres have highest number of movies with an voting avg >=8 ? 
 
+## Code
 
-read csv
+import and read csv
 
-![image](https://github.com/user-attachments/assets/2f3112e2-7b49-4036-a94e-8959c8681b0b)
+![image](https://github.com/user-attachments/assets/b4104c60-cb33-4ec3-890f-77272b9416ec)
+
+
+movies.info()
+
+![image](https://github.com/user-attachments/assets/996d1b9a-4d00-4cb2-9dda-550a95661f40)
+
+
+
