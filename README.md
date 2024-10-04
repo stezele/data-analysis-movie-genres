@@ -94,7 +94,7 @@ info
 ![image](https://github.com/user-attachments/assets/5b2be13d-d4e2-41ac-881b-aa98b320fed7)
 
 
-
+### 2. Which genres have high avg. budget and revenue?
 
 
 
