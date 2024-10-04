@@ -112,7 +112,7 @@ Group by and Format Budget
 
 ### 3. Which genres have high avg. Profit?
 
-Group by and Format Profit
+Group by Profit
 
 ![image](https://github.com/user-attachments/assets/6cc56148-c18c-4a23-a108-322f9f25f0eb)
 
@@ -122,9 +122,15 @@ Group by and Format Profit
 
 
 
+### 4. Which genres have high avg. popularity?
+
+Group by Popularity
+
+![image](https://github.com/user-attachments/assets/6e2e34f1-9304-4fb7-acc8-da625e466156)
 
 
+![image](https://github.com/user-attachments/assets/9e37f31c-748c-475c-9ec4-3fb536bd7a69)
 
-
+![image](https://github.com/user-attachments/assets/0defb2e0-27ee-48cb-af7f-f8fb1c51c946)
 
 
