@@ -1,6 +1,6 @@
 
 # Project Overview:
-## Data Analysis of Movie Genres
+## Data Analysis of Movie Genre
 Analyzing Trends and Patterns in Movie Genres
 
 ## Objective
