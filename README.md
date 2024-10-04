@@ -30,4 +30,21 @@ import and read csv
 ![image](https://github.com/user-attachments/assets/996d1b9a-4d00-4cb2-9dda-550a95661f40)
 
 
+## Shaping data
+
+# delete duplicate values
+
+![image](https://github.com/user-attachments/assets/0544b265-2360-4076-8b9f-6e5479f07b13)
+
+
+# delete null data 
+
+![image](https://github.com/user-attachments/assets/93ca411d-b245-4b67-a0dd-ad654f8dfc53)
+
+# New Profit Column
+
+![image](https://github.com/user-attachments/assets/7aa6ff59-dd01-4efa-9a5f-1e995e370ec5)
+
+
+
 
